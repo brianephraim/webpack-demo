@@ -1,0 +1,22 @@
+{
+  "name": "demos",
+  "scripts": {
+    "start": "./node_modules/.bin/webpack --config ./webpack.config.js --watch"
+  },
+  "version": "0.0.1",
+  "description": "webpack demo",
+  "main": "index.js",
+  "keywords": [
+    "build",
+    "demo",
+    "webpack"
+  ],
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "css-loader": "^0.26.1",
+    "stats-webpack-plugin": "^0.4.3",
+    "style-loader": "^0.13.1",
+    "webpack": "^2.2.1"
+  }
+}

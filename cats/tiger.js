@@ -1,0 +1,1 @@
+module.exports = function(){document.write('<p>- tiger</p>');};

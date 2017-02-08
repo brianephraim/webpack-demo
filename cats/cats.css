@@ -1,0 +1,7 @@
+.cats-header {
+	background: yellow;
+}
+.cats-header:after{
+	content:' - yellow';
+	display:inline;
+}

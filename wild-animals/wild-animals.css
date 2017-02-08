@@ -1,0 +1,7 @@
+h2 {
+	border: 2px solid red;
+}
+h2:after{
+	content:' - red border';
+	display:inline;
+}
