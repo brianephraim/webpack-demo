@@ -1,0 +1,16 @@
+.dogs-header,
+.dog {
+	background: pink;
+}
+.dogs-header:after {
+	content:' - pink';
+	display:inline;
+}
+
+.dog--wild:before{
+	content: '\26a0';
+	display: inline;
+	font-size: 20px;
+	font-weight: bold;
+	color: red;
+}

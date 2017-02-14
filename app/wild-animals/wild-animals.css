@@ -1,0 +1,15 @@
+
+.wild-animals-header {color:red;}
+.wild-animals-header:after{
+	content:' - warning symbol \26a0';
+	color: red;
+	display:inline;
+}
+
+p:before{
+	content:'\26a0';
+	display:inline;
+	font-size: 20px;
+	font-weight: bold;
+	color: red;
+}

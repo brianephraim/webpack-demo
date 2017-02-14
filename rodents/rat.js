@@ -1,1 +1,0 @@
-module.exports = function(){document.write('<p>- elephant</p>');};

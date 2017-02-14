@@ -1,7 +1,0 @@
-.dogs-header {
-	background: pink;
-}
-.dogs-header:after{
-	content:' - pink';
-	display:inline;
-}

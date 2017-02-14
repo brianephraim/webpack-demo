@@ -1,0 +1,17 @@
+.cats-header,
+.cat {
+	background: yellow;
+}
+
+.cats-header:after {
+	content: ' - yellow';
+	display: inline;
+}
+
+.cat--wild:before{
+	content: '\26a0';
+	display: inline;
+	font-size: 20px;
+	font-weight: bold;
+	color: red;
+}
